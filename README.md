@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/49728020/168474823-5341bfc6-b1f0-4b68-9d94-daa8608207e8.png)
 //nodejs//expressjs
 ![image](https://user-images.githubusercontent.com/49728020/168249403-25381012-388c-48e5-a9b4-a4c9757b1f9b.png)
-//Signup page https://still-garden-56358.herokuapp.com/   heroku hosted nodejs express git
+//Signup page https://still-garden-56358.herokuapp.com/   heroku hosted nodejs express git mailchip
 ![image](https://user-images.githubusercontent.com/49728020/169031495-6e0dfc6c-6b6f-4e2f-9f90-ca6011fc47f2.png)
 
 
