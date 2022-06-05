@@ -1,7 +1,7 @@
 # bootCamp 
 //javascript
 ![image](https://user-images.githubusercontent.com/49728020/167288867-d73ef3ce-08e6-4b19-9e57-1e24c1248ff0.png)
-//API    https://protected-sea-50559.herokuapp.com/
+//API nodejs    https://protected-sea-50559.herokuapp.com/
 ![Screenshot (3)](https://user-images.githubusercontent.com/49728020/159702033-08478f0c-95c2-4fbf-9240-6f8a031a673a.png)
 //jSDice
 ![image](https://user-images.githubusercontent.com/49728020/167288837-b2958ff9-799a-406e-8137-d574ab2512a0.png)
