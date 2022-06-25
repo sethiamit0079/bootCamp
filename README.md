@@ -26,7 +26,8 @@
 //Chat-app nodejs
 ![chat app](https://user-images.githubusercontent.com/49728020/175777760-8f9fa7c7-c398-4e29-a5b3-9156591f6233.png)
 
-//Dom pig game
+//Dom pig game javascript 
+![Screenshot (46)](https://user-images.githubusercontent.com/49728020/175777875-b69d3f12-7007-40ca-92a8-a05de2106b64.png)
 
 //ReactBootcamp
 
