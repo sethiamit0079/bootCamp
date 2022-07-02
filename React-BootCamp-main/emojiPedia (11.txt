@@ -1,0 +1,104 @@
+////////////////////////////////////////////////////////////////
+
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./components/App";
+
+ReactDOM.render(<App />, document.getElementById("root"));
+
+////////////////////////////////////////////////////////////////////
+
+const emojipedia = [
+  {
+    id: 1,
+    emoji: "💪",
+    name: "Tense Biceps",
+    meaning:
+      "“You can do that!” or “I feel strong!” Arm with tense biceps. Also used in connection with doing sports, e.g. at the gym."
+  },
+  {
+    id: 2,
+    emoji: "🙏",
+    name: "Person With Folded Hands",
+    meaning:
+      "Two hands pressed together. Is currently very introverted, saying a prayer, or hoping for enlightenment. Is also used as a “high five” or to say thank you."
+  },
+  {
+    id: 3,
+    emoji: "🤣",
+    name: "Rolling On The Floor, Laughing",
+    meaning:
+      "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+  },
+  {
+    id: 4,
+    emoji: "🤣",
+    name: "Rolling On The Floor, Laughing",
+    meaning:
+      "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+  }
+];
+
+export default emojipedia;
+
+////////////////////////////////////////////
+........................................
+
+import React from "react";
+import Entry from "./Entry";
+import emojipedia from "../emojipedia";
+
+// var emojiTerm = {
+//   id: 1,
+//   emoji: "💪",
+//   name: "Tense Biceps",
+//   meaning:
+//     "“You can do that!” or “I feel strong!” Arm with tense biceps. Also used in connection with doing sports, e.g. at the gym."
+// },
+
+function createEntry(emojTerm) {
+  return (
+    <Entry
+      key={emojTerm.id}
+      emoji={emojTerm.emoji}
+      name={emojTerm.name}
+      meaning={emojTerm.meaning}
+    />
+  );
+}
+
+function App() {
+  return (
+    <div>
+      <h1>
+        <span>emojipedia</span>
+      </h1>
+      <dl className="dictionary">{emojipedia.map(createEntry)}</dl>
+    </div>
+  );
+}
+
+export default App;
+
+//////////////////////////////////////////
+
+import React from "react";
+
+function Entry(props) {
+  return (
+    <div className="term">
+      <dt>
+        <span className="emoji" role="img" aria-label="Tense Biceps">
+          {props.emoji}
+        </span>
+        <span>{props.name}</span>
+      </dt>
+      <dd>{props.meaning}</dd>
+    </div>
+  );
+}
+
+export default Entry;
+
+/////////////////////////////////////
+
