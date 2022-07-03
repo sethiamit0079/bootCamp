@@ -1,0 +1,76 @@
+// var numbers = [3, 56, 2, 48, 5];
+
+//Map -Create a new array by doing something with each item in an array.
+
+// function double(x) {
+//   return x * 2;
+// }
+
+// map it self creates new array
+// const newNum = numbers.map(double);
+// console.log(newNum);
+
+// var newNum = [];
+
+// function double(x) {
+//   newNum.push(x * 2);
+// }
+
+// numbers.forEach(double);
+
+// console.log(newNum);
+
+// var numbers = [3, 56, 2, 48, 5];
+//Filter - Create a new array by keeping the items that return true.
+
+// const num = numbers.filter(function (x) {
+//   return x > 10;
+// });
+
+// console.log(num);
+
+// var newNum = [];
+// numbers.forEach(function (num) {
+//   if (num > 10) {
+//     newNum.push(num);
+//   }
+// });
+
+// console.log(newNum);
+
+// var numbers = [3, 56, 2, 48, 5];
+//Reduce - Accumulate a value by doing something to each item in an array.
+// var count = 0;
+// numbers.forEach(function (x) {
+//   count += x;
+// });
+// console.log(count);
+
+// var count = numbers.reduce(function (acc, x) {
+//   return acc + x;
+// });
+
+// console.log(count);
+
+//var numbers = [3, 56, 2, 48, 5];
+//Find - find the first item that matches from an array.
+
+// var num = numbers.find(function (x) {
+//   return x > 10;
+// });
+// console.log(num);
+
+//FindIndex - find the index of the first item that matches.
+
+// var num = numbers.findIndex(function (x) {
+//   return x > 10;
+// });
+// console.log(num);
+
+import emojiP from "./emojipedia";
+
+var em = emojiP.map(function (x) {
+  return x.meaning.substring(0, 100);
+});
+
+console.log(em);
