@@ -9,6 +9,7 @@ function App() {
   return (
     <div className="container">
       {
+      //ternary operator
         // isLogger ? <h1>Hello</h1> : <Login />
         //  num > 10 ? <h1> good </h1> : null
 
