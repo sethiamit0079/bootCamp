@@ -12,7 +12,8 @@ index(1.js-> codesandbox //
 (9 -> props practice 
 
 (10 --> props and map 
-![image](https://user-images.githubusercontent.com/49728020/177011775-022e5842-8ed6-43a3-9a41-7464aa7f0c2a.png)
+![image](https://user-images.githubusercontent.com/49728020/177518639-3c1bf3dd-29f1-4f52-89fc-c8a45db04238.png)
+
 
 (13.2 --> hooks
 ![image](https://user-images.githubusercontent.com/49728020/177179336-fa99012f-dc0c-4ffd-a7d0-66f9773d8626.png)
