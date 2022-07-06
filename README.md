@@ -27,8 +27,6 @@
 ![Screenshot (46)](https://user-images.githubusercontent.com/49728020/175777875-b69d3f12-7007-40ca-92a8-a05de2106b64.png)
 
 //ReactBootcamp
-![react](https://user-images.githubusercontent.com/49728020/175804947-55b2b572-f28e-4f83-bfb7-f207e58dcc8a.png)
-
 
 ![image](https://user-images.githubusercontent.com/49728020/177517936-d85f4d2e-263d-4327-982f-f1f4919e79e1.png)
 
