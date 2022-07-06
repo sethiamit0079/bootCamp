@@ -30,6 +30,12 @@
 ![react](https://user-images.githubusercontent.com/49728020/175804947-55b2b572-f28e-4f83-bfb7-f207e58dcc8a.png)
 
 
+![image](https://user-images.githubusercontent.com/49728020/177517936-d85f4d2e-263d-4327-982f-f1f4919e79e1.png)
+
+
+![image](https://user-images.githubusercontent.com/49728020/177518054-3cc2afff-10eb-4577-93c1-3d959dd76ef4.png)
+
+
 
 
 
