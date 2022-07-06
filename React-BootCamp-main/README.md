@@ -21,7 +21,7 @@ index(1.js-> codesandbox //
 (15 --> spread operator, prevValue
 ![image](https://user-images.githubusercontent.com/49728020/177322289-38261644-86d1-4be6-b426-d3640ff7bf47.png)
 
-(16 --> spread operator 
+(16 --> spread operator, Component tree
 
 ![image](https://user-images.githubusercontent.com/49728020/177517689-9e9d4f12-1c51-4b29-92b3-83bd4add991a.png)
 
